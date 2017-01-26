@@ -38,7 +38,11 @@ Document Findings, Actions, and Outcomes
 Nefnið dæmi um báðar gerðir af spurningum.
 opinn spurning er þegar það eru margar leiðir til að svara henni t.d "hvað fannst þér um matinn?" er opinn
 lokuð spurning er já/nei spurningar t.d "fannst þér maturinn góður?"
-
+-----
+
+8. Hvað eru jaðartæki?
+prentarar, mýs, lyklaborð, skjáir og svo framleiðis
+-----
 
 
 

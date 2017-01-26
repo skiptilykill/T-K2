@@ -32,7 +32,13 @@ Test the Theory to Determine Cause
 Establish a Plan of Action to Resolve the Problem and Implement the Solution
 Verify Full System Functionality and, If Applicable, Implement Preventive Measures
 Document Findings, Actions, and Outcomes
+-----
 
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+opinn spurning er þegar það eru margar leiðir til að svara henni t.d "hvað fannst þér um matinn?" er opinn
+lokuð spurning er já/nei spurningar t.d "fannst þér maturinn góður?"
+
 
 
 

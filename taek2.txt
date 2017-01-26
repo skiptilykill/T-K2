@@ -13,6 +13,14 @@ upplýsingar eru settar inn á ROM þegar hann er framleiddur og getur ekki breytt 
 
 3. Hvað er fyrirbyggjandi viðhald
 þú getur rykhreinsað tölvuna þína reglulega og passa að allt er í lagi 
+-----
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+ESD stendur fyrir Electrostatic Discharge og það getur skemmt tölvu parta.
+þú getur geymt tölvu partana í antistatic bags.
+-----
+
 
 
 

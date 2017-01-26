@@ -1,0 +1,11 @@
+# TÆK2
+
+
+1. Fyrir hvað stendur skammstöfunin RAM? útskýrðu hvað RAM er.
+RAM stendur fyrir Random Acces Memory eða vinnsluminni á íslensku vinnsluminni.
+Vinnsluminni gegnir því hlutverki að geyma gögn og forrit á meðan tölvan er að vinna með þau.
+-----
+
+
+
+

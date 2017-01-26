@@ -9,6 +9,10 @@ Vinnsluminni gegnir því hlutverki að geyma gögn og forrit á meðan tölvan er að v
 2. Fyrir hvað stendur skammstöfunin ROM? útskýrðu hvað ROM er.
 ROM stendur fyrir Read Only Memory.
 upplýsingar eru settar inn á ROM þegar hann er framleiddur og getur ekki breytt því
+-----
+
+3. Hvað er fyrirbyggjandi viðhald
+þú getur rykhreinsað tölvuna þína reglulega og passa að allt er í lagi 
 
 
 

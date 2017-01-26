@@ -20,6 +20,14 @@ verjast því þegar unnið er með tölvubúnað?
 ESD stendur fyrir Electrostatic Discharge og það getur skemmt tölvu parta.
 þú getur geymt tölvu partana í antistatic bags.
 -----
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Hefur spennugjafinn nóg af afli.
+----- 
+
+
+
+
 
 
 

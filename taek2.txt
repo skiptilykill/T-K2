@@ -6,6 +6,11 @@ RAM stendur fyrir Random Acces Memory eða vinnsluminni á íslensku vinnsluminni.
 Vinnsluminni gegnir því hlutverki að geyma gögn og forrit á meðan tölvan er að vinna með þau.
 -----
 
+2. Fyrir hvað stendur skammstöfunin ROM? útskýrðu hvað ROM er.
+ROM stendur fyrir Read Only Memory.
+upplýsingar eru settar inn á ROM þegar hann er framleiddur og getur ekki breytt því
+
+
 
 
 

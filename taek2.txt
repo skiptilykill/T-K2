@@ -46,7 +46,20 @@ prentarar, mýs, lyklaborð, skjáir og svo framleiðis
 
 9. Nefndu þrjú dæmi um inntakstæki.
 mýs, lyklaborð og skjáir
-
+-----
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+skjákort: MSI GTX 1080, 119.950kr, att.is
+örgjafi: Intel Core i7-6700K 4.0GHz, LGA1151 Skylake, Quad-Core, 48.900kr, tolvutaekni.is
+vinssluminni: Corsair VEN 2x8GB 3000MHz minni, 16.950kr, att.is
+harður diskur: 2TB SATA3 Seagate, 11.890kr
+móðurborð: Asus Z170-Pro Gaming, 27.855kr, att.is
+aflgjafi: Corsair CX600 aflgjafi, 13.950, att.is
+Turnkassi: Corsair Carbide SPEC-M2, 11.696, tl.is
+-----
 
 
 
